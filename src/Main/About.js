@@ -4,7 +4,7 @@ function About(props) {
     return (
         <div>
             <h1>Helloooooooo</h1>
-        <h2>I'm training Git Pull</h2>
+        <h2>I'm training Git Pull. Mergessssss</h2>
         </div>
     );
 }
